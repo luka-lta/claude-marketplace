@@ -1,0 +1,19 @@
+{
+  "name": "luka-mods",
+  "owner": {
+    "name": "Luka Liebenthal"
+  },
+  "plugins": [
+    {
+      "name": "spinner-sprueche",
+      "source": "./plugins/spinner-sprueche",
+      "description": "Ersetzt \"Thinking…\" im Spinner durch passende Sprüche je nach Tool-Aufruf"
+    },
+    {
+      "name": "achievements",
+      "source": "./plugins/achievements",
+      "description": "Achievements für Claude Code: Toast beim Freischalten, /achievements zeigt die Sammlung"
+    }
+  ],
+  "description": "Lukas private Claude-Code-Mods"
+}

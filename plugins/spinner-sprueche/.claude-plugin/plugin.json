@@ -1,0 +1,8 @@
+{
+  "name": "spinner-sprueche",
+  "version": "0.1.0",
+  "description": "Ersetzt \"Thinking…\" im Spinner durch passende Sprüche je nach Tool-Aufruf",
+  "author": {
+    "name": "Luka Liebenthal"
+  }
+}
